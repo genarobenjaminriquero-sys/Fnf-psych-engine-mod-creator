@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FunkinCraft</string>
+    <string name="studio_subtitle">Psych Engine 0.7.3 &amp; 1.0.4</string>
+    <string name="new_mod">Nuevo Mod</string>
+    <string name="empty_mods_title">Tu estudio está listo</string>
+    <string name="empty_mods_desc">Crea un mod nuevo desde cero o prueba el proyecto de ejemplo incluido.</string>
+    <string name="tab_music">Música</string>
+    <string name="tab_chart">Chart</string>
+    <string name="tab_sprites">Sprites</string>
+    <string name="tab_events">Eventos</string>
+    <string name="tab_export">Exportar</string>
+    <string name="playtest">Probar</string>
+    <string name="export_zip">Exportar ZIP</string>
+</resources>

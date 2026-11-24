@@ -1,0 +1,6 @@
+{
+  "name": "FunkinCraft",
+  "description": "Minimalist FNF Psych Engine 0.7.3 & 1.0.4 mod studio with native song synthesizer, chart editor, sprite atlas packer, Scratch-style event scripting, live song playtester, and error-free ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
